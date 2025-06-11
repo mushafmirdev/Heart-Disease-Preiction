@@ -1,6 +1,6 @@
 #  Heart Disease Prediction using Machine Learning
 
-This project aims to predict the risk of heart disease in individuals using a supervised machine learning model trained on the UCI Heart Disease dataset.
+This project aims to predict risk of heart disease in individuals using a supervised machine learning model trained on the UCI Heart Disease dataset.
 
 ## Objective
 
